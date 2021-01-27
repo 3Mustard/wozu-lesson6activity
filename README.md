@@ -1,3 +1,5 @@
+EDIT: I should have named lesson6 directory to Program
+
 # Requirements
 
 Create another file named AnotherProgram.cs.
