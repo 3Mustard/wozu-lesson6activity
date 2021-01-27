@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xVEO/0l8OJ8+PSCfY4aPxLuB+0pZZEP09a6wCyG5fBCHoTkWvEBMAg4m5POUlJ0We9YFuH5CSUhAgYB2SEFMqA==",
+  "dgSpecHash": "mgQcuFv7LZU5HXe5PSxhw9Vj6mFn4ChBJpr5mOWq2LdjQLV1ZO/J9cqkD4qZhqqaPBnsg7XY3eEazIjcaiu1jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matt\\source\\repos\\lesson6\\lesson6\\lesson6.csproj",
+  "projectFilePath": "C:\\Users\\Matt\\source\\repos\\lesson6\\lesson6\\Program.cs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

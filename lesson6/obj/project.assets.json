@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\lesson6\\lesson6\\lesson6.csproj",
-      "projectName": "lesson6",
-      "projectPath": "C:\\Users\\Matt\\source\\repos\\lesson6\\lesson6\\lesson6.csproj",
+      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\lesson6\\lesson6\\Program.cs.csproj",
+      "projectName": "Program.cs",
+      "projectPath": "C:\\Users\\Matt\\source\\repos\\lesson6\\lesson6\\Program.cs.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Matt\\source\\repos\\lesson6\\lesson6\\obj\\",
       "projectStyle": "PackageReference",
