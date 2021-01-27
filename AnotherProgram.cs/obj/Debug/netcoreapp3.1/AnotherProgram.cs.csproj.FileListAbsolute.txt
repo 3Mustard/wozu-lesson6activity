@@ -1,0 +1,8 @@
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\bin\Debug\netcoreapp3.1\AnotherProgram.cs.deps.json
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\bin\Debug\netcoreapp3.1\AnotherProgram.cs.dll
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\bin\Debug\netcoreapp3.1\AnotherProgram.cs.pdb
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\obj\Debug\netcoreapp3.1\AnotherProgram.cs.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\obj\Debug\netcoreapp3.1\AnotherProgram.cs.AssemblyInfo.cs
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\obj\Debug\netcoreapp3.1\AnotherProgram.cs.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\obj\Debug\netcoreapp3.1\AnotherProgram.cs.dll
+C:\Users\Matt\source\repos\lesson6\AnotherProgram.cs\obj\Debug\netcoreapp3.1\AnotherProgram.cs.pdb
